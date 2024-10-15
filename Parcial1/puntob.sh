@@ -51,3 +51,5 @@ sudo mount /dev/sdc2 /mnt/particion_2
 sudo mount /dev/sdc3 /mnt/particion_3
 sudo mount /dev/sdc4 /mnt/particion_4
 
+lsblk
+
